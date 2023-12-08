@@ -1,7 +1,9 @@
 ## Welcome to the Extensioneers Guild GitHub organization
 
-The Extensioneers Guild is an independent association of professionals, and is not affiliated with Trimble. The Guild is registered with [Open Collective Europe](https://opencollective.com/extensioneersguild).
+The Extensioneers Guild is an independent association of professionals, and is not affiliated with Trimble. 
+* [Website](https://extensioneers.org/)
+* [Forum](https://forum.extensioneers.org/)
+* The Guild is registered with [Open Collective Europe](https://opencollective.com/extensioneersguild).
 
-* [website](https://extensioneers.org/)
-* [forum](https://forum.extensioneers.org/)
-* [open collective organization](https://opencollective.com/extensioneersguild)
+This Github organisation is a place to keep the guild's documents and code either for the general public or for members of the guild only.
+If you are a member and don't have access to private repositories, [send us](https://extensioneers.org/#Contact) your github username.
