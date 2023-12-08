@@ -1,4 +1,4 @@
-## Welcome to the Extensioneers Guild GitHub organization
+## Welcome to the Extensioneers Guild's GitHub organization
 
 The Extensioneers Guild is an independent association of professionals, and is not affiliated with Trimble. 
 * [Website](https://extensioneers.org/)
